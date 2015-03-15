@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//api/userAPI.py=utf-8
+encoding//core/baseAPI.py=utf-8
+encoding//core/baseProvider.py=utf-8
+encoding//provider/userProvider.py=utf-8
+encoding/app.py=utf-8
